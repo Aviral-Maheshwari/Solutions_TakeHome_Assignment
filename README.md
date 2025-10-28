@@ -6,7 +6,7 @@ Each section is organized into its own folder with a dedicated `README.md` expla
 ---
 
 ## 🧩 Part 1: Car Cover Scraping (Python)
-**Folder:** [`CarCover_Scraping`](./CarCover_Scraping)
+**Folder:** [`CarCover_Selenium_ScrapingBot-master`](./CarCover_Selenium_ScrapingBot-master)
 
 This task involves automating the extraction of car cover listings from OLX using **Python** and **Selenium**.  
 The script fetches details such as **Title**, **Description**, and **Price** for each listing and prints them in a tabulated format.
@@ -22,7 +22,7 @@ The script fetches details such as **Title**, **Description**, and **Price** for
 ---
 
 ## 🧮 Part 2: SQL Queries
-**Folder:** [`SQL_Queries`](./SQL_Queries)
+**Folder:** [`SQL_Queries-main`](./SQL_Queries-main)
 
 This section contains solutions to the SQL problems provided in the assignment.  
 Each query is clearly commented and includes explanations for logic and optimization choices.
@@ -37,7 +37,7 @@ Each query is clearly commented and includes explanations for logic and optimiza
 ---
 
 ## 💻 Part 3: Scheme and Asset Extraction (Shell Script)
-**Folder:** [`Scheme_Asset_Extraction`](./Scheme_Asset_Extraction)
+**Folder:** [`ExtractingScript_Scheme_Asset-main`](./ExtractingScript_Scheme_Asset-main)
 
 This shell script extracts **Scheme Name** and **Asset Value** from the text data provided at  
 [`https://www.amfiindia.com/spages/NAVAll.txt`](https://www.amfiindia.com/spages/NAVAll.txt)  
