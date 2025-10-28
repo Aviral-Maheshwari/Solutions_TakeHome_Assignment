@@ -62,7 +62,7 @@ Each folder contains its own `README.md` file with:
 
 ## 🧑‍💻 Author
 **Aviral Maheshwari**  
-📧 Email: [aviralmaheshwari1@gmail.com](mailto:aviofficial28@gmail.com)  
+📧 Email: [aviofficial28@gmail.com](mailto:aviofficial28@gmail.com)  
 📞 Contact: +91 9389688825  
 🌐 GitHub: [Aviral-Maheshwari](https://github.com/Aviral-Maheshwari)
 
